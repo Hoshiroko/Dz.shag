@@ -12,5 +12,5 @@ public:
 	double Ddrob();
 	int Cdrob();
 	drob();
-
+	~drob();
 };
